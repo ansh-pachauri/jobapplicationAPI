@@ -21,11 +21,7 @@ The repository already includes a virtual environment at `env/` in this workspac
 Open PowerShell and run the following from the project root (the folder that contains `manage.py` — `jobApi`):
 
 ```pwsh
-# change to project dir (adjust if needed)
-cd "D:\projects100xdev\Django Assignment\job-application\jobApi"
 
-# Activate the provided virtualenv (PowerShell)
-& "D:\projects100xdev\Django Assignment\job-application\env\Scripts\Activate.ps1"
 
 # If you don't have the virtualenv and want to create one instead:
 # python -m venv env
