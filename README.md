@@ -27,9 +27,6 @@ Open PowerShell and run the following from the project root (the folder that con
 # python -m venv env
 # & .\env\Scripts\Activate.ps1
 
-# Install dependencies (if you don't have them installed already)
-# If you have a requirements.txt, use:
-# pip install -r requirements.txt
 
 # Otherwise install the main packages used by this project:
 pip install django djangorestframework djangorestframework-simplejwt
